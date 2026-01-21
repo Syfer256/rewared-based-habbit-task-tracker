@@ -1,0 +1,8 @@
+{
+  "name": "HabbitGold - Track & Earn",
+  "description": "A professional habit tracker that rewards users with points for verified task completions, redeemable for real money. Features AI-powered verification, warm aesthetic gradients, and a robust point management system with HabbitGold branding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
